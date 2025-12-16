@@ -16,6 +16,11 @@
 
 ---
 
+### 🌐 Portfolio & Resume
+- 🌐 Portfolio: https://pugajjar.github.io/Portfolio/
+
+---
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pugajjar4706/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Pugajjar)
@@ -38,3 +43,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pugajjar&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugajjar&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+
+### 📌 Featured Projects
+- 🔥 Project 1 – Description
+- 🚀 Project 2 – Description
+- ⚙️ Project 3 – Description
+
+
