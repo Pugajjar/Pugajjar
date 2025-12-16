@@ -12,7 +12,7 @@
 - 🤖 Learning AI, ML & Deep Learning
 - 💻 Strong in C++, Python
 - 🧠 Interested in building real-world projects
-- 🎯 Dream: Work at OpenAI
+- 🎯 Dream: Work at Google
 
 ---
 
@@ -44,7 +44,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugajjar&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)
 
 ---
 
