@@ -37,6 +37,19 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?logo=prezi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
 
 ---
 
@@ -49,8 +62,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🔥 Project 1 – Description
-- 🚀 Project 2 – Description
-- ⚙️ Project 3 – Description
+-  Project 1 – Dinoco Driver [Full-Stack]
+-  Project 2 – Dinoco Chat [Serverless-chat application]
+-  Project 3 – Personal Portfolio 
 
 
