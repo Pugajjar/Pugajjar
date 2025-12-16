@@ -1,17 +1,5 @@
-![Header](https://capsule-render.vercel.app/api
-?type=rounded
-&height=220
-&color=gradient
-&customColorList=12,20,24
-&text=Parthiv%20Gajjar
-&fontSize=46
-&fontColor=000000
-&fontAlign=50
-&fontAlignY=40
-&desc=Computer%20Science%20Student%20|%20Aspiring%20Software%20Engineer
-&descSize=16
-&descAlign=50
-&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=rounded&height=220&color=gradient&customColorList=12,20,24&text=Parthiv%20Gajjar&fontSize=46&fontColor=000000&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Aspiring%20Software%20Engineer&descSize=16&descAlign=50&descAlignY=65)
+
 
 ## 👋 Hello, I'm Parthiv Gajjar
 
