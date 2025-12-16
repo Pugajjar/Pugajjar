@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&animation=fadeIn)
-
-<p align="center">
-  <img src="assets/logo.png" width="140" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Parthiv%20Gajjar)
 
 ## 👋 Hello, I'm Parthiv Gajjar
 
