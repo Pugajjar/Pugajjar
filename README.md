@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Parthiv%20Gajjar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Aspiring%20Software%20Engineer&descSize=18&descAlignY=65)
-
-
+![Header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Parthiv%20Gajjar&section=header&reversal=false&fontSize=50&animation=fadeIn)
 
 ## 👋 Hello, I'm Parthiv Gajjar
 
@@ -39,4 +37,4 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pugajjar&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugajjar&layout=compact&theme=dark)
