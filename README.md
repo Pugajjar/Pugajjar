@@ -44,8 +44,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugajjar&layout=compact&theme=dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)
 
+---
 
 ### 📌 Featured Projects
 - 🔥 Project 1 – Description
