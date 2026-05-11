@@ -13,7 +13,7 @@
 - 🤖 Learning AI, ML & Deep Learning
 - 💻 Strong in C++, Python
 - 🧠 Interested in building real-world projects
-- 🎯 Dream: Work at Google
+- 🎯 Dream: Work at Nvidia
 
 ---
 
